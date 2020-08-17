@@ -1,9 +1,5 @@
 ### Hi there 👋
 
-<!--
-**davidtstill/davidtstill** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on a blog about stocks
 - 🌱 I’m currently learning ...Python and SQL and how they can be used for data analysis
@@ -13,4 +9,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ... [LinkedIn Profile](https://www.linkedin.com/in/davidtstill/)
 - 😄 Pronouns: ... he/him
 - ⚡ Fun fact: ... I lived in China for 5 years and speak Mandarin, Chinese
--->
+
